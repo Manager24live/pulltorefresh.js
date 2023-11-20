@@ -19,7 +19,7 @@ export default `
   padding: 10px;
   flex-basis: 100%;
   z-index: 1000; 
-  background-color: #ffffff;
+  background-color: #ececf1;
 }
 
 .__PREFIX__pull {
