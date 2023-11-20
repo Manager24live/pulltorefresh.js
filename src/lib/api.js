@@ -1,9 +1,5 @@
 import _shared from './shared';
 
-const pullDownText = document.querySelector('meta[name="ptr-pull-down"]').content;
-const releaseText = document.querySelector('meta[name="ptr-release"]').content;
-const refreshingText = document.querySelector('meta[name="ptr-refreshing"]').content;
-
 function setupDOM(handler) {
   if (!handler.ptrElement) {
     const ptr = document.createElement('div');
