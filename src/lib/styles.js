@@ -13,7 +13,6 @@ export default `
   display: flex;
   align-items: flex-end;
   align-content: stretch;
-  margin-top: 60px;
 }
 
 .__PREFIX__box {
