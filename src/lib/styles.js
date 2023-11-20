@@ -13,11 +13,14 @@ export default `
   display: flex;
   align-items: flex-end;
   align-content: stretch;
+  margin-top: 60px;
 }
 
 .__PREFIX__box {
   padding: 10px;
   flex-basis: 100%;
+  z-index: 1000; 
+  background-color: #ffffff;
 }
 
 .__PREFIX__pull {
